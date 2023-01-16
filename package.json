@@ -9,9 +9,9 @@
   },
   "dependencies": {
     "pinia": "^2.0.28",
-    "qr-scanner": "^1.4.2",
     "vue": "^3.2.45",
-    "vue-router": "^4.1.6"
+    "vue-router": "^4.1.6",
+    "vue3-qrcode-reader": "^0.0.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
