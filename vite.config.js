@@ -6,9 +6,6 @@ import vue from '@vitejs/plugin-vue'
 // https://vitejs.dev/config/
 export default defineConfig({
   base: '/qr-vue3',
-  build: {
-    outDir: './docs'
-  },
   plugins: [vue()],
   resolve: {
     alias: {
