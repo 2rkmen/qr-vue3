@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
-    "preview": "vite preview",
-
+    "preview": "vite preview"
   },
   "dependencies": {
     "pinia": "^2.0.28",
